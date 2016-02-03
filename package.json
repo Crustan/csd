@@ -1,0 +1,33 @@
+{
+  "name": "christiansoderbergdesign",
+  "version": "1.0.0",
+  "description": "My portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crustan/csd.git"
+  },
+  "keywords": [
+    "christian",
+    "söderberg",
+    "soderberg",
+    "web",
+    "design",
+    "webbdesign",
+    "portfolio",
+    "sweden",
+    "sverige"
+  ],
+  "author": "Christian Söderberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crustan/csd/issues"
+  },
+  "homepage": "https://github.com/Crustan/csd#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
