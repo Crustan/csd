@@ -454,5 +454,8 @@ footer {
       letter-spacing: .1em;
       line-height: 5rem;
       color: #333333;
+      transition: color 300ms ease-in-out;
       font-family: 'Proxima Nova';
       font-weight: 700; }
+      footer .links a:hover {
+        color: #abcdef; }
